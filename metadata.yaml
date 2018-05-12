@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '38369'
     url: http://www.gutenberg.org/2009/agents/38369
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36591#Marital-Power-Exemplified-in-Mrs.-Packard-s-Trial-and-Self-Defence-from-the-Charge-of-Insanit_
 gutenberg_issued: '2011-07-03'
 gutenberg_type: Text
 identifiers:
